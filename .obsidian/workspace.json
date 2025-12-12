@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "OS/CPU, кэши и память/CPU, кэши и память.md",
+                "file": "OS/Исполняемые файлы и библиотеки/Исполняемые файлы и библиотеки.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "CPU, кэши и память"
+              "title": "Исполняемые файлы и библиотеки"
             }
           }
         ],
@@ -200,21 +200,25 @@
   },
   "active": "6cf2b91f41df670e",
   "lastOpenFiles": [
-    "OS/CPU, кэши и память/images/Pasted image 20251209033353.png",
-    "OS/CPU, кэши и память/images/Pasted image 20251209032908.png",
-    "OS/CPU, кэши и память/images/Pasted image 20251209032647.png",
-    "OS/CPU, кэши и память/images/Pasted image 20251209032636.png",
-    "OS/CPU, кэши и память/images/Pasted image 20251209032630.png",
-    "OS/CPU, кэши и память/images/Pasted image 20251209032605.png",
-    "OS/CPU, кэши и память/images/Pasted image 20251209032558.png",
-    "OS/CPU, кэши и память/images/Pasted image 20251209032525.png",
-    "OS/CPU, кэши и память/images/Pasted image 20251209032430.png",
-    "OS/CPU, кэши и память/images/Pasted image 20251209032156.png",
-    "OS/CPU, кэши и память/images/Pasted image 20251209031952.png",
+    "OS/Исполняемые файлы и библиотеки/images/Pasted image 20251212205151.png",
+    "OS/Исполняемые файлы и библиотеки/images/Pasted image 20251212174311.png",
+    "OS/Исполняемые файлы и библиотеки/images/Pasted image 20251212174235.png",
+    "OS/Исполняемые файлы и библиотеки/images/Pasted image 20251212174221.png",
+    "OS/Исполняемые файлы и библиотеки/images/Pasted image 20251212174208.png",
+    "OS/Исполняемые файлы и библиотеки/images/Pasted image 20251212174153.png",
+    "OS/Исполняемые файлы и библиотеки/images/Pasted image 20251212174140.png",
+    "OS/Исполняемые файлы и библиотеки/images/Pasted image 20251212174124.png",
+    "OS/Исполняемые файлы и библиотеки/images/Pasted image 20251212174111.png",
+    "OS/Исполняемые файлы и библиотеки/images/Pasted image 20251212174057.png",
+    "OS/Исполняемые файлы и библиотеки/images/Pasted image 20251212174045.png",
+    "OS/Файловые системы/Файловые системы.md",
+    "OS/Исполняемые файлы и библиотеки/Исполняемые файлы и библиотеки.md",
+    "OS/Исполняемые файлы и библиотеки/images",
+    "OS/Без названия",
+    "Без названия",
+    "OS/CPU, кэши и память/CPU, кэши и память.md",
     "OS/CPU, кэши и память/images",
     "OS/CPU, кэши и память",
-    "OS/CPU, кэши и память/CPU, кэши и память.md",
-    "OS/Файловые системы/Файловые системы.md",
     "OS/Файловые системы/~$йловые системы.md",
     "Без названия.canvas",
     "2025-12-06.md",
