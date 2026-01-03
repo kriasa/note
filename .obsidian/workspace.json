@@ -4,37 +4,63 @@
     "type": "split",
     "children": [
       {
-        "id": "5f16e2d97c978a80",
+        "id": "9e8bb353ce8db455",
         "type": "tabs",
         "children": [
           {
-            "id": "36305f0fdb76dc53",
+            "id": "1d972332e89604c0",
             "type": "leaf",
             "state": {
               "type": "pdf",
               "state": {
-                "file": "FUND_ALG/Темы.pdf"
+                "file": "OS/презы/Lecture #5_ File systems.pdf"
               },
               "icon": "lucide-file-text",
-              "title": "Темы"
+              "title": "Lecture #5_ File systems"
             }
           },
           {
-            "id": "312f89e058e8d60a",
+            "id": "5d9c4d6e47185a58",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "OS/презы/Lecture #7-8_ Sockets and networking.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "Lecture #7-8_ Sockets and networking"
+            }
+          },
+          {
+            "id": "5c5a4523d4b54c4a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "FUND_ALG/задачи.md",
+                "file": "OS/5. Файловые системы/Файловые системы.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "задачи"
+              "title": "Файловые системы"
+            }
+          },
+          {
+            "id": "5d89bfdbc794b586",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "FIZIK/Электричество.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Электричество"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -107,7 +133,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "OS/Файловые системы/Файловые системы.md",
+                "file": "OS/1. Операционные системы/Операционные системы.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +143,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Обратные ссылки для Файловые системы"
+              "title": "Обратные ссылки для Операционные системы"
             }
           },
           {
@@ -182,7 +208,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
+    "width": 200,
     "collapsed": true
   },
   "left-ribbon": {
@@ -196,53 +222,54 @@
       "bases:Создать новую базу": false
     }
   },
-  "active": "312f89e058e8d60a",
+  "active": "6cf2b91f41df670e",
   "lastOpenFiles": [
-    "FUND_ALG/8. Файловый ввод и вывод в языке C.md",
+    "FIZIK/images/Pasted image 20260103131337.png",
+    "FIZIK/images/Pasted image 20260103131312.png",
+    "FIZIK/images/Pasted image 20260103131223.png",
+    "FIZIK/images/Pasted image 20260103131154.png",
+    "FIZIK/images/Pasted image 20260103131049.png",
+    "FIZIK/images/Pasted image 20260103130944.png",
+    "FIZIK/images/Pasted image 20260103130521.png",
+    "FIZIK/images/Pasted image 20260103130457.png",
+    "FIZIK/images/Pasted image 20260103130423.png",
+    "FIZIK/images/Pasted image 20260103130401.png",
+    "FIZIK/images/Pasted image 20260103130342.png",
+    "FIZIK/Trofimova-2013.pdf",
+    "FIZIK/1_Физика_экзамен_1_сем_Мех_Колеб_Молекул.pdf",
+    "FIZIK/Молекулярка.md",
+    "FIZIK/Электричество.md",
+    "OS/5. Файловые системы/Файловые системы.md",
+    "FIZIK/Механика.md",
+    "FIZIK/fisika_3sem_answ_1part/ответы к экзамену.md",
+    "FIZIK/Колебания.md",
+    "ответы к экзамену.md",
+    "FIZIK/fisika_3sem_answ_1part",
+    "FIZIK/images",
+    "DIFUR",
+    "FIZIK",
+    "OS/7-8. Сокеты и сети/Сокеты и сети.md",
+    "OS/презы/Lecture #7-8_ Sockets and networking.pdf",
+    "OS/7-8. Сокеты и сети/images",
+    "OS/презы/Lecture #5_ File systems.pdf",
+    "OS/6. Исполняемые файлы и библиотеки/Код вовки.md",
+    "OS/4. CPU, кэши и память/CPU, кэши и память.md",
+    "OS/4. CPU, кэши и память/Код Вовки.md",
+    "OS/3. Многопоточность/Многопоточность.md",
+    "OS/2. Процессы и потоки/Процессы и потоки.md",
+    "OS/презы/ОС.pdf",
+    "OS/2. Процессы и потоки/Код от Вовки.md",
+    "OS/1. Операционные системы/Операционные системы.md",
+    "Untitled.md",
+    "FUND_ALG/билеты/14. Создание и обработка динамических массивов..md",
+    "FUND_ALG/билеты/6. Указатели. Массивы и строки..md",
     "FUND_ALG/задачи.md",
-    "FUND_ALG/зачет фунды.pdf",
-    "FUND_ALG/25.Биномиальное дерево.md",
-    "FUND_ALG/24.Косая приоритетная очередь.md",
-    "FUND_ALG/23.Левосторонняя приоритетная очередь.md",
-    "FUND_ALG/22.Бинарная приоритетная очередь,.md",
-    "FUND_ALG/21. Декартово дерево..md",
-    "FUND_ALG/20. Бинарные деревья поиска..md",
-    "FUND_ALG/28. Хеш-функция и хеш-таблица..md",
-    "FUND_ALG/26. Отношение эквивалентности на пространстве элементов..md",
-    "FUND_ALG/27. Дерево скобочного выражения.md",
-    "FUND_ALG/19. Отношение порядка на пространстве элементов..md",
-    "FUND_ALG/18. Деревья общего вида и операции над ними..md",
-    "FUND_ALG/17. Префиксная, инфиксная и постфиксная форма арифметического выражения..md",
-    "FUND_ALG/16.Очереди и стеки..md",
-    "FUND_ALG/15.Односвязные, двусвязные и кольцевые списки..md",
-    "FUND_ALG/14. Создание и обработка динамических массивов..md",
-    "FUND_ALG/13. Директивы препроцессора в языке C..md",
-    "FUND_ALG/12. Структуры и объединения в языке C.md",
-    "FUND_ALG/11. Динамическое выделение памяти.md",
-    "FUND_ALG/7. Схема Горнера.md",
-    "FUND_ALG/10. Функции с переменным числом аргументов..md",
-    "FUND_ALG/9. Функции..md",
-    "FUND_ALG/6. Указатели. Массивы и строки..md",
-    "FUND_ALG/5. Операторы цикла в языке C. Управление выполнением тела операторов цикла..md",
-    "Pasted image 20251219164354.png",
-    "Pasted image 20251219164323.png",
-    "Pasted image 20251219164216.png",
-    "FUND_ALG/Темы.pdf",
-    "FUND_ALG/Pasted image 20251219010823.png",
-    "FUND_ALG/Pasted image 20251219005335.png",
-    "FUND_ALG/Pasted image 20251219005324.png",
-    "FUND_ALG/Pasted image 20251219005309.png",
-    "FUND_ALG/Pasted image 20251219004012.png",
-    "FUND_ALG/Pasted image 20251219003946.png",
-    "FUND_ALG/Pasted image 20251219003604.png",
-    "Фунды/Темы.pdf",
-    "Фунды/Зачет",
-    "Фунды",
-    "FUND_ALG/images",
-    "FUND_ALG/1_sem",
-    "FUND_ALG",
-    "OS/Исполняемые файлы и библиотеки/images",
-    "OS/Без названия",
+    "FUND_ALG/билеты/8. Файловый ввод и вывод в языке C.md",
+    "FUND_ALG/билеты/25.Биномиальное дерево.md",
+    "FUND_ALG/билеты/24.Косая приоритетная очередь.md",
+    "FUND_ALG/билеты/23.Левосторонняя приоритетная очередь.md",
+    "FUND_ALG/билеты/22.Бинарная приоритетная очередь,.md",
+    "FUND_ALG/билеты/21. Декартово дерево..md",
     "Без названия.canvas"
   ]
 }
