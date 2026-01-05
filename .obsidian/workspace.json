@@ -4,49 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "9e8bb353ce8db455",
+        "id": "76075cadafdcce24",
         "type": "tabs",
         "children": [
           {
-            "id": "1d972332e89604c0",
+            "id": "964089d978d553ce",
             "type": "leaf",
             "state": {
               "type": "pdf",
               "state": {
-                "file": "OS/презы/Lecture #5_ File systems.pdf"
+                "file": "FIZIK/1_Физика_экзамен_1_сем_Мех_Колеб_Молекул.pdf"
               },
               "icon": "lucide-file-text",
-              "title": "Lecture #5_ File systems"
+              "title": "1_Физика_экзамен_1_сем_Мех_Колеб_Молекул"
             }
           },
           {
-            "id": "5d9c4d6e47185a58",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "OS/презы/Lecture #7-8_ Sockets and networking.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "Lecture #7-8_ Sockets and networking"
-            }
-          },
-          {
-            "id": "5c5a4523d4b54c4a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "OS/5. Файловые системы/Файловые системы.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Файловые системы"
-            }
-          },
-          {
-            "id": "5d89bfdbc794b586",
+            "id": "a79ba7c1e01c097e",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -59,8 +33,7 @@
               "title": "Колебания"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -222,54 +195,53 @@
       "bases:Создать новую базу": false
     }
   },
-  "active": "6cf2b91f41df670e",
+  "active": "964089d978d553ce",
   "lastOpenFiles": [
-    "FIZIK/images/Pasted image 20260103203640.png",
-    "FIZIK/images/Pasted image 20260103203636.png",
-    "FIZIK/images/Pasted image 20260103203632.png",
-    "FIZIK/images/Pasted image 20260103203628.png",
-    "FIZIK/images/Pasted image 20260103203623.png",
-    "FIZIK/images/Pasted image 20260103203617.png",
-    "FUND_ALG/зачет фунды.pdf",
     "FIZIK/Колебания.md",
-    "FIZIK/Электричество.md",
-    "FIZIK/images/Pasted image 20260103203100.png",
-    "FIZIK/images/Pasted image 20260103203039.png",
-    "FIZIK/images/Pasted image 20260103202948.png",
-    "FIZIK/images/Pasted image 20260103202938.png",
-    "FIZIK/images/Pasted image 20260103202858.png",
-    "FIZIK/fisika_3sem_answ_1part/ответы к экзамену.md",
-    "FIZIK/Trofimova-2013.pdf",
+    "FIZIK/images/Pasted image 20260106001255.png",
+    "FIZIK/images/Pasted image 20260106001220.png",
+    "FIZIK/images/Pasted image 20260106001209.png",
     "FIZIK/1_Физика_экзамен_1_сем_Мех_Колеб_Молекул.pdf",
-    "FIZIK/Молекулярка.md",
-    "OS/5. Файловые системы/Файловые системы.md",
+    "FIZIK/images/Pasted image 20260105233802.png",
+    "FIZIK/images/Pasted image 20260105224633.png",
     "FIZIK/Механика.md",
-    "ответы к экзамену.md",
+    "FIZIK/Молекулярка.md",
+    "FUND_ALG/images/Pasted image 20251219005335 1.png",
+    "FUND_ALG/images/Pasted image 20251219005309 1.png",
+    "FUND_ALG/images/Pasted image 20251219003508 1.png",
+    "OS/презы/Lecture #7-8_ Sockets and networking.pdf",
+    "OS/презы/Lecture #5_ File systems.pdf",
+    "OS/5. Файловые системы/Файловые системы.md",
+    "2026-01-05.md",
+    "OS/1. Операционные системы/Операционные системы.md",
+    "Pasted image 20260102125628.png.md",
+    "OS/5. Файловые системы/image/Pasted image 20260104223547.png",
+    "FIZIK/Электричество.md",
+    "OS/3. Многопоточность/Многопоточность.md",
+    "OS/4. CPU, кэши и память/Код Вовки.md",
+    "OS/6. Исполняемые файлы и библиотеки/Код вовки.md",
+    "OS/7-8. Сокеты и сети/Сокеты и сети.md",
+    "FUND_ALG/9. Функции..md",
+    "FUND_ALG/8. Файловый ввод и вывод в языке C.md",
+    "FUND_ALG/6. Указатели. Массивы и строки..md",
+    "FUND_ALG/5. Операторы цикла в языке C. Управление выполнением тела операторов цикла..md",
+    "FUND_ALG/28. Хеш-функция и хеш-таблица..md",
+    "FUND_ALG/27. Дерево скобочного выражения.md",
+    "FUND_ALG/26. Отношение эквивалентности на пространстве элементов..md",
+    "FUND_ALG/25.Биномиальное дерево.md",
+    "FUND_ALG/24.Косая приоритетная очередь.md",
+    "FUND_ALG/23.Левосторонняя приоритетная очередь.md",
+    "FUND_ALG/22.Бинарная приоритетная очередь,.md",
+    "FUND_ALG/21. Декартово дерево..md",
+    "FUND_ALG/20. Бинарные деревья поиска..md",
+    "FIZIK/images/Pasted image 20260103203640.png",
+    "FUND_ALG/зачет фунды.pdf",
+    "FIZIK/Trofimova-2013.pdf",
     "FIZIK/fisika_3sem_answ_1part",
     "FIZIK/images",
     "DIFUR",
     "FIZIK",
-    "OS/7-8. Сокеты и сети/Сокеты и сети.md",
-    "OS/презы/Lecture #7-8_ Sockets and networking.pdf",
     "OS/7-8. Сокеты и сети/images",
-    "OS/презы/Lecture #5_ File systems.pdf",
-    "OS/6. Исполняемые файлы и библиотеки/Код вовки.md",
-    "OS/4. CPU, кэши и память/CPU, кэши и память.md",
-    "OS/4. CPU, кэши и память/Код Вовки.md",
-    "OS/3. Многопоточность/Многопоточность.md",
-    "OS/2. Процессы и потоки/Процессы и потоки.md",
-    "OS/2. Процессы и потоки/Код от Вовки.md",
-    "OS/1. Операционные системы/Операционные системы.md",
-    "Untitled.md",
-    "FUND_ALG/билеты/14. Создание и обработка динамических массивов..md",
-    "FUND_ALG/билеты/6. Указатели. Массивы и строки..md",
-    "FUND_ALG/задачи.md",
-    "FUND_ALG/билеты/8. Файловый ввод и вывод в языке C.md",
-    "FUND_ALG/билеты/25.Биномиальное дерево.md",
-    "FUND_ALG/билеты/24.Косая приоритетная очередь.md",
-    "FUND_ALG/билеты/23.Левосторонняя приоритетная очередь.md",
-    "FUND_ALG/билеты/22.Бинарная приоритетная очередь,.md",
-    "FUND_ALG/билеты/21. Декартово дерево..md",
     "Без названия.canvas"
   ]
 }
